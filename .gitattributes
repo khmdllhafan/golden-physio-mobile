@@ -1,0 +1,3 @@
+# Mengatur agar GitHub mendeteksi proyek Dart/Flutter dengan benar
+/web/ export-ignore
+*.html linguist-vendored
